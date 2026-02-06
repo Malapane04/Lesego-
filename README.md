@@ -1,0 +1,2 @@
+# Lesego-
+setting up git
